@@ -8,3 +8,5 @@ Searching;
 Downloading/wallpaper
 
 Open for any suggestion in the issues section.
+
+>>"A doggo image a day, keeps the sadness away" -Divyansh Gandhi
