@@ -7,6 +7,8 @@
     background: #004d69;
     color: white;
     margin: 0;
+    align-items: center;
+    text-align: center;
 }
 
 #main-header h1 {
@@ -15,14 +17,14 @@
 }
 
 .container {
-    min-width: 20%;
+    max-width: 70vw;
+    max-height: 50vh;
     margin-left: auto;
     margin-right: auto;
     margin-top: 36px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    border: white 24px;
 }
 
 .btn {
@@ -35,7 +37,7 @@
 
 .container img {
     max-width: 80%;
-    max-height: 80%;
+    max-height: 100%;
 }
 
 footer {
@@ -64,12 +66,12 @@ body {
 }
 
 .controls {
-    min-width: 25%;
-    max-width: 50%;
+    min-width: 20%;
+    max-width: 30%;
     height: auto;
     display: flex;
     flex-direction: row;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 36px;
+    margin-top: 56px;
 }
